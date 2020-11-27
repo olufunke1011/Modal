@@ -6,7 +6,7 @@ This project is about about popups on a website. Html and CSS was used to design
 
 ## Visuals
 
-![Display_Preview](/Asset/images/demo.png "page_preview")
+![Display_Preview](/assets/imgs/demo.png "page_preview")
 
 
 ## Live Demo

@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    /* background: url(figma.png); */
+    text-align: center;
+    line-height: 1.6;
+  }
+
+.container {
+    display: none;
+   width: 30%;
+    border: 1px solid rgba(0, 0, 0, 0.111);
+    background-color: whitesmoke;
+    z-index: 1;
+    margin: 5rem auto 0 auto;
+    border-radius: 20px;
+
+}
+
+.headingContainer {
+    background-color: rgb(174, 123, 14);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.head {
+    background-color: white;
+    display: flex;
+}
+
+#close {
+    cursor: pointer;
+}
+
+.fillOut {
+    display: grid;
+    grid-gap: 10px;
+}
+
+.head h4 {
+    margin-left: 60px;
+}
+
+.head span {
+    margin-left: 100px;
+}
+
+.fillOut input {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.fillOut button {
+    padding: 5px;
+    border-radius: 5px;
+    width: 20%;
+    margin-left: 150px;
+    margin-top: 20px;
+    background: linear-gradient(to left, #257474, #332133);
+    font-weight: bold;
+    color: white;
+}
+
+.fillOut p {
+    padding: 5px;
+    font-size: 20px;
+}
+
+.dancing-animation {
+    float: left;
+   width: 300px;
+   height: 400px;
+   margin-top: 70px;
+   background: url(welcomed.jpg);
+   animation: movearound 12s steps(70, start) infinite alternate 44ms;
+
+}
+
+@keyframes movearound {
+    0% {transform: translatex(0);}
+    100% {transform: translatex(900px);
+    }
+
+}

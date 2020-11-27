@@ -4,6 +4,10 @@ This project is about about popups on a website. Html and CSS was used to design
 ## Description
 This project is about about popups on a website. Html and CSS was used to design a newsletter template while JavaScript was used to give action and event to the modal popup on the site.
 
+## Visuals
+
+![Display_Preview](/Asset/images/demo.png "page_preview")
+
 
 ## Live Demo
 
@@ -17,10 +21,6 @@ https://raw.githack.com/olufunke1011/Abercrombie_clone/main/index.html
 
 - HTML
 - CSS
-
-## Visuals
-
-![Display_Preview](/Asset/images/demo.png "page_preview")
 
 ## Author
 

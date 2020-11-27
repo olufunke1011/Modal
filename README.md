@@ -11,7 +11,7 @@ This project is about about popups on a website. Html and CSS was used to design
 
 ## Live Demo
 
-https://raw.githack.com/olufunke1011/Abercrombie_clone/main/index.html
+https://raw.githack.com/olufunke1011/Modal/main/index.html
 
 ## Dependencies
 
